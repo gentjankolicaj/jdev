@@ -1,0 +1,9 @@
+[submodule "jdev-primitive"]
+	path = jdev-primitive
+	url = https://github.com/gentjankolicaj/jdev-primitive
+[submodule "jdev-jackson"]
+	path = jdev-jackson
+	url = https://github.com/gentjankolicaj/jdev-jackson
+[submodule "jdev-test"]
+	path = jdev-test
+	url = https://github.com/gentjankolicaj/jdev-test
