@@ -1,6 +1,6 @@
 # jdev
 
-Mirror repository of a collection of maven modules for assistance in SDLC.
+Mirror repository of a collection of maven modules for assistance in java SDLC.
 
 ## Modules :
 
