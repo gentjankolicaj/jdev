@@ -7,3 +7,6 @@
 [submodule "jdev-test"]
 	path = jdev-test
 	url = https://github.com/gentjankolicaj/jdev-test
+[submodule "jdev-jetty-12"]
+	path = jdev-jetty-12
+	url = https://github.com/gentjankolicaj/jdev-jetty-12.git
