@@ -21,6 +21,7 @@
 		<module>jdev-test</module>
 		<module>jdev-jackson</module>
 		<module>jdev-primitive</module>
+		<module>jdev-jetty-12</module>
 	</modules>
 
 	<build>
